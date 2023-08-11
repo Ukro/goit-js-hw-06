@@ -8,3 +8,5 @@ function myFunk()  {
     const fontSize = fontSizeControl.value + 'px';
     textElement.style.fontSize = fontSize;
   }
+
+myFunk();
